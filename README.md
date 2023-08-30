@@ -8,5 +8,5 @@ Action steps:
 - use git add -A to add all changes
 - use git commit -m " descripstion name" to commit change
 - use git push main to push changes to the main branch on respository
-
-Deployment link: 
+- Once Main branch is live, create another branch call HTML to push Updated HTML and CSS FILE. 
+Deployment link: https://knguyen3531.github.io/Khoi-s-Module-1-Challenge/
