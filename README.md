@@ -9,4 +9,4 @@ Action steps:
 - use git commit -m " descripstion name" to commit change
 - use git push main to push changes to the main branch on respository
 
-Deployment link: https://knguyen3531.github.io/Khoi-s-Module-1-Challenge/
+Deployment link: 
